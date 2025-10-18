@@ -4,20 +4,23 @@
 A program for sorting files of the same type into subfolders.
 
 ## The Problem
-[Why you built it]
+[To help organize files and better my knowledge of the Python language.]
 
-## Features
-- Feature 1
-- Feature 2
 
 ## Technical Details
 [Libraries/architecture]
+Libraries:
 
-## Installation
-[Steps...]
+   - os - directory scanning and path manipulation
+   - shutil - file operations (moving, deletion)
 
-## Usage
-[Examples...]
+Architecture:
 
-## Development
-[Challenges & solutions]
+    - Recursive directory traversal
+
+    - Set-based extension tracking
+
+    - Batch folder creation and file organization
+
+## Author
+Tamin Mahboubi
